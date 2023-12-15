@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity and NJINX**
 
-- 👨‍💻 All of my projects are available at [ranshiv.online](ranshiv.online)
+- 👨‍💻 All of my projects are available at [http://ranshiv.online/](http://ranshiv.online/)
 
 - 📫 How to reach me **ranshiv369@gmail.com**
 
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranshiv&show_icons=true&locale=en" alt="ranshiv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranshiv&" alt="ranshiv" /></p>
-
