@@ -27,4 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranshiv&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <h3 align="center">Quote For the Day</h3>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
