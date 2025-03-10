@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity and NJINX**
 
-- 👨‍💻 All of my projects are available at [http://ranshiv.online/](http://ranshiv.online/)
+- 👨‍💻 All of my projects are available at [https://ranshiv.online/](https://ranshiv.online/)
 
 - 📫 How to reach me **ranshiv369@gmail.com**
 
