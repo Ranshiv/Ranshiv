@@ -1,36 +1,190 @@
-<h1 align="center">Hi 👋, I'm Ranshiv Kumar</h1>
-<h3 align="center">A passionate frontend developer, Backend Developer and Fullstack developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Ranshiv%20Kumar&fontSize=70&fontColor=4F5D95&animation=fadeIn" />
 
-<p align="left"> <a href="https://twitter.com/ranshivk" target="blank"><img src="https://img.shields.io/twitter/follow/ranshivk?logo=twitter&style=for-the-badge" alt="ranshivk" /></a> </p>
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=4F5D95&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Frontend+%26+Backend+Expert;Mobile+Development+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  </div>
 
-- 🔭 I’m currently working on **Chat bot using Node JS**
+  <p style="font-size: 18px"><strong>Building elegant digital experiences with clean code and modern technologies</strong></p>
+  
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=ranshiv&style=for-the-badge&color=4F5D95" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/ranshiv?style=for-the-badge&color=4F5D95" alt="GitHub Followers" />
+    <a href="https://twitter.com/ranshivk" target="blank">
+      <img src="https://img.shields.io/twitter/follow/ranshivk?logo=twitter&style=for-the-badge&color=4F5D95" alt="Twitter Follow" />
+    </a>
+  </div>
+</div>
 
-- 🌱 I’m currently learning **Cybersecurity and NJINX**
+<div align="center">
+  <hr style="border:0; height:1px; background-color:#e5e5e5; width:100%;">
+</div>
 
-- 👨‍💻 All of my projects are available at [https://ranshiv.online/](https://ranshiv.online/)
+## 👨‍💻 About Me
 
-- 📫 How to reach me **ranshiv369@gmail.com**
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div width="50%" style="padding-right: 20px;">
+  
+```javascript
+const ranshiv = {
+  currentlyWorkingOn: "Pigeon - an API testing application",
+  currentlyLearning: ["Cybersecurity", "NGINX"],
+  portfolio: "ranshiv.online",
+  contact: "ranshiv369@gmail.com",
+  funFact: "How do Cows do Math? Using a Cow-culator! 🐄🧮"
+};
+```
+  </div>
+  <div width="50%">
+    <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+  </div>
+</div>
 
-- ⚡ Fun fact **How do Cows do Math, using a Cow-culator**
+<div align="center">
+  <hr style="border:0; height:1px; background-color:#e5e5e5; width:100%;">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ranshivk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranshivk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranshiv kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranshiv kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/ranshivk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranshivk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ranshiv369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranshiv369" height="30" width="40" /></a>
+## 🔗 Connect with Me
+
+<div align="center">
+  <a href="https://twitter.com/ranshivk" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-4F5D95?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/ranshiv-kumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4F5D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ranshivk" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-4F5D95?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.hackerrank.com/ranshiv369" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-4F5D95?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://ranshiv.online/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4F5D95?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  <hr style="border:0; height:1px; background-color:#e5e5e5; width:100%;">
+</div>
+
+</div>
+
+## 🔧 Technical Specifications & Project Experience
+
+<div align="center">
+
+### 🏗️ Architecture & Development
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Full-Stack Development**
+
+- **E-Commerce Solutions**: Thread Processors site with HTML/CSS/JS
+- **Gaming Platforms**: Interactive gaming website development
+- **Portfolio Development**: Personal portfolio with modern UI/UX
+- **Real-time Applications**: Socket.IO integration for live communication
+
+**Backend Systems**
+
+- **Java Swing Applications**: Desktop management systems with MySQL
+- **Django Web Applications**: Python-based web solutions with database integration
+- **Node.js Development**: Server-side JavaScript applications
+- **RESTful API Design**: Backend service architecture
+
+</td>
+<td valign="top" width="50%">
+
+**System & Security**
+
+- **Linux Administration**: Ubuntu, Kali Linux proficiency
+- **PowerShell Scripting**: Windows automation and system management
+- **Cybersecurity Focus**: Currently learning advanced security practices
+- **NGINX Configuration**: Web server optimization and deployment
+
+**Development Environment**
+
+- **Version Control**: Git/GitHub workflow management
+- **Database Design**: MySQL, MongoDB, SQLite implementations
+- **Cloud Deployment**: Google Cloud Platform experience
+- **Development Tools**: VS Code, Postman, Arduino IDE
+
+</td>
+</tr>
+</table>
+
+### 📈 Current Technical Focus
+
+<div align="center">
+<img src="https://img.shields.io/badge/🕊️%20Pigeon%20API%20Testing%20App-In%20Development-4F5D95?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-4F5D95?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/NGINX-Studying-4F5D95?style=for-the-badge&logo=nginx&logoColor=white" />
+</div>
+
+### 🎯 Core Competencies
+
+| **Category**  | **Technologies**                   | **Project Applications**                          |
+| ------------- | ---------------------------------- | ------------------------------------------------- |
+| **Frontend**  | HTML5, CSS3, JavaScript, Bootstrap | Gaming Website, Portfolio, E-commerce UI          |
+| **Backend**   | Node.js, Django, Flask, Express    | Management Systems, Web APIs, Real-time Apps      |
+| **Database**  | MySQL, MongoDB, SQLite             | E-commerce, Management Systems, Web Apps          |
+| **Languages** | Java, Python, C++, C, PHP, Scala   | Desktop Apps, Web Development, System Programming |
+| **Tools**     | Git, VS Code, Postman, Linux, GCP  | Development Workflow, API Testing, Deployment     |
+
+</div>
+
+<div align="center">
+  <hr style="border:0; height:1px; background-color:#e5e5e5; width:100%;">
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Ranshiv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranshiv&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=4F5D95&icon_color=4F5D95&text_color=FFFFFF&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranshiv&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=4F5D95&text_color=FFFFFF" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Ranshiv">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranshiv&theme=nord&hide_border=true&background=0D1117&ring=4F5D95&fire=4F5D95&currStreakLabel=4F5D95" />
+  </a>
+</div>
+
+<div align="center">
+  <hr style="border:0; height:1px; background-color:#e5e5e5; width:100%;">
+</div>
+
+## 💭 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+</div>
+
+<div align="center">
+  <hr style="border:0; height:1px; background-color:#e5e5e5; width:100%;">
+</div>
+
+<div align="center">
+  
+## 🤝 Let's Build Something Amazing Together
+
+<p>
+  I'm passionate about creating innovative solutions and always open to exciting collaborations. Whether you want to build something from scratch or enhance an existing project, let's connect and make it happen!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<div>
+  <a href="mailto:ranshiv369@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4F5D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ranshiv.online/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4F5D95?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<br>
 
-
-![](https://github-readme-stats.vercel.app/api?username=Ranshiv&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ranshiv&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranshiv&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-<h3 align="left">Quote For the Day</h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+</div>
